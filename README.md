@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkrai069
-- 👀 I’m interested in Ethical Hacking, Networking and Python Programming
-- 🌱 I’m currently learning Ethical Hacking and Python
-- 💞️ I’m looking to collaborate on Ethical Hacking, Networking and Python
+- 👀 eWPTXv2 certified, Preparing for eCPTX and (ISC)² CC 
+- 🌱 Cybersecurity Researcher and Penetration Tester
+- 💞️ Top 0.5% TryHackMe | HackTheBox | OverTheWire | PenTesterLab | PortSwigger | Hackerone
 - 📫 How to reach me through: kamath.abhijit018@gmail.com
 
 <!---
