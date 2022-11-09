@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @darkrai069
-- 👀 eWPTXv2 certified, Preparing for eCPTX and (ISC)² CC 
+- 👀 Penetration Tester, eWPTXv2 certified, Preparing for eCPTX and (ISC)² CC 
 - 🌱 Cybersecurity Researcher and Penetration Tester
-- 💞️ Top 0.5% TryHackMe | HackTheBox | OverTheWire | PenTesterLab | PortSwigger | Hackerone
+- 💞️ Top 0.2% TryHackMe | HackTheBox | OverTheWire | PenTesterLab | PortSwigger | Hackerone
 - 📫 How to reach me through: kamath.abhijit018@gmail.com
 
 <!---
