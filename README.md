@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @darkrai069
-- 👀 Penetration Tester, eWPTXv2 certified, Preparing for eCPTX and (ISC)² CC 
+- 👀 Information Security Architect
 - 🌱 Cybersecurity Researcher and Penetration Tester
-- 💞️ Top 0.2% TryHackMe | HackTheBox | OverTheWire | PenTesterLab | PortSwigger | Hackerone
-- 📫 How to reach me through: kamath.abhijit018@gmail.com
+- 💞️ TryHackMe | HackTheBox | OverTheWire | PenTesterLab | PortSwigger | Hackerone
+- 📫 How to reach me: kamath.abhijit018@gmail.com
 
 <!---
 darkrai069/darkrai069 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
